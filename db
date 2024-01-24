@@ -1,0 +1,5 @@
+CREATE DATABASE bratek;
+
+CREATE TABLE contractor (contractor_id int auto_inrement, name string, surname string, email string, phone string(9), comment text, adress string, town string, nip string(12));
+
+CREATE TABLE ;
